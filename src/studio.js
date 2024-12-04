@@ -1,5 +1,5 @@
-import React from 'react'
-import "./studio.css"
+import React from 'react';
+import "./studio.css";
 
 function Studio() {
   return (
