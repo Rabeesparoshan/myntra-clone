@@ -21,4 +21,4 @@ function Menpage(props) {
   )
 }
 
-export default Menpage
+export default Menpage;
