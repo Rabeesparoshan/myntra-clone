@@ -22,4 +22,4 @@ function Women(props) {
   )
 }
 
-export default Women
+export default Women;
